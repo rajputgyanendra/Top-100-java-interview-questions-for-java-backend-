@@ -1,0 +1,63 @@
+1. How do you test private methods using Junit ?
+2. What changes do you see in Junit 5 ?
+3. What design patterns have you used ?
+4. If you have a situation where you have different states and you have different unit prises foreach state which design pattern will you use ?
+5. What are kafka partitions ?
+6. What is internal working of hashMap ? What is the formula to get the bucket number ?
+7. What is internal working of hashSet ? If hashSet internally used hashMap how does it handle duplicates If hashSet uses hashMap internally how does it handle duplicate elements ?
+8. What is fail fast vs fail safe iterator ?
+9. What java feature have you used from 7-17 ? What is Pattern Matching ?
+10. What changes do you see in Spring Boot 3 after Spring Boot 2 ?
+11. Bean Factory vs Application Context ?
+12. How you handle async event using jms ? 
+13. What happens when an event is publish but the event liscener is not up ?
+14. Write code to get second non repeating character from a string using streams. If not found throw exception.
+15. Write code to write a singleton class and handle multithreading and how to handle breaking on singleton class.
+16. Write code to find if a string is valid email using regex.
+17. Write code to show exception handling in spring boot.
+18. How did you provide security in your application.
+19. Class level vs method level locks.
+20. What is N+1 Problem and solution ?
+
+My Interview Experience
+1.  What is Docker ? What problem does Docker solve.
+2.  What is difference between docker image and docker container.
+3.  EKS vs ECS 
+4.  What are interceptors in spring ?
+5.  How is interceptor differnt than filter ?
+6.  Do you know any other filters used
+7.  Java code for palindrome using streams and not inbuild methods ?
+8.  How will you test a static method with junit ?
+9.  What will happen if you use @transactional on private method ?
+10. What will be your approach to process 1lakh records per minute received on rest endpoint ?
+11. SOLIDS ?
+12. Is Stream Immutable ? 
+13. Why is stream lazy loading ?
+14. What is the use of streams when we had traditional for loops ?
+15. @Qualifier
+16. @Value
+17. Have you worked on PL/SQL , Shell Scripts ?
+18. What is JWT, Oauth, How do you secure Rest Endpoint ?
+19. What is method reference in java ?
+20. How does auto configuration works in spring boot ?
+21. @Primary vs @Qualifier
+22. clear vs flush
+23. save vs saveOrUpdate vs commit
+24. Jenkins pipeline stages
+25. Hashmap vs ConcurrentHashMap
+26. Mock vs InjectMock
+27. Builder design Pattern
+28. Factory Design Pattern
+29. Default method in interface and how to handle ambiguity
+30. @Trabsactional propagation levels
+31. Find duplicate rows from a table
+32. Advantages of Spring Boot over Spring MVC
+33. Checked Exception vs Unchecked Exception
+34. What features you used from Java 8-17
+35. What is functional interface and why was it introduced.
+37. What is marker interface and can you write your own marker interface.
+38. What is the contract between equals and hashcode ?
+39. What are the standard to be followed for writing rest apis.
+40. What is difference between put, post and patch.
+41. difference between where clause and having clause in sql
+42. What do you mean by immutable. What immutable objects have you used ?
