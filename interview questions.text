@@ -61,3 +61,32 @@ My Interview Experience
 40. What is difference between put, post and patch.
 41. difference between where clause and having clause in sql
 42. What do you mean by immutable. What immutable objects have you used ?
+
+
+design patttern you used explain singleton
+spring scopes
+wap to rev string without using inbuilt method
+wap to sort array whch have any 0 to 99 elements in any order;
+exception handling and various tricky questions on multiple try catch block
+oops concept
+why string is immutable
+collection in java, diff arraylist and linkedlist
+internal working of hashmap , tricky questions on hashing collisioin
+contract between equals and hashmap() 
+diff between spring and springboot
+which annotation you used in your application and explain one by one all esplain @bean
+dependency injection in spring boot , its types
+how you connect database with springboot
+exception handling in springboot environment
+what is api gateway and its purpose
+wha is actuators and multiple endpoints
+what is jwt authentication and its implementation
+public static void main explain and what if i used private this method
+difference collection used
+which multiple database used
+spring boot documentation swagger
+if ty catch and finally is there and try block throw exception and catch and finallly block written some values that will be the outupt
+multithreading multiple questions can we run method explicitly
+multiple questions on docker, jenkins , kubernetes.
+
+
